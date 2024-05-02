@@ -26,7 +26,7 @@ You can find the database file here in my Github repo : [Remote Assignment](http
 
 ![SQLLite Database connection](https://github.com/RagCMU/Remote_test/blob/main/Screenshot%202024-05-02%20at%2010.58.02%20pm.png)
 
-[SQLLite Database connection](https://github.com/RagCMU/Remote_test/blob/main/Screenshot%202024-05-02%20at%2011.00.03%20pm.png)
+![SQLLite Database connection](https://github.com/RagCMU/Remote_test/blob/main/Screenshot%202024-05-02%20at%2011.00.03%20pm.png)
 
 In order to connect to it you would have to download the file and create a new SQL Lite connection using the IDE of your choice, as shown above in the screenshots above.
 
